@@ -1,5 +1,5 @@
 function Home(){
-    return <p>Página inicial Clone Tabnews</p>
+    return <h1>Página inicial Clone Tabnews </h1>
 }
 
 export default Home;
